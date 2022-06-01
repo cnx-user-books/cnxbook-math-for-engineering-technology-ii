@@ -1,0 +1,228 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col31997</md:content-id>
+  <md:title>Math for Engineering &amp; Technology II</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>adc07402-7ad9-48b0-9714-59d508ca26ce</md:uuid>
+<md:slug>math-for-engineering-technology-ii</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Functions and Graphs</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53479"/>
+        
+      
+    
+    
+      <col:module document="m53480"/>
+        
+      
+    
+    
+      <col:module document="m53481"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Limits</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53578"/>
+        
+      
+    
+    
+      <col:module document="m53584"/>
+        
+      
+    
+    
+      <col:module document="m53586"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Integration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53621"/>
+        
+      
+    
+    
+      <col:module document="m53635"/>
+        
+      
+    
+    
+      <col:module document="m53636"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Applications of Integration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53642"/>
+        
+      
+    
+    
+      <col:module document="m53643"/>
+        
+      
+    
+    
+      <col:module document="m53649"/>
+        
+      
+    
+    
+      <col:module document="m53650"/>
+        
+      
+    
+    
+      <col:module document="m53651"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Techniques of Integration</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53656"/>
+        
+      
+    
+    
+      <col:module document="m53657"/>
+        
+      
+    
+    
+      <col:module document="m53659"/>
+        
+      
+    
+    
+      <col:module document="m53681"/>
+        
+      
+    
+    
+      <col:module document="m53684"/>
+        
+      
+    
+    
+      <col:module document="m53685"/>
+        
+      
+    
+    
+      <col:module document="m53686"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction to Differential Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m53697"/>
+        
+      
+    
+    
+      <col:module document="m53704"/>
+        
+      
+    
+    
+      <col:module document="m53713"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
